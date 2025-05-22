@@ -1,3 +1,6 @@
+##Autor: xXJuanDavidXx
+##Github: https://github.com/xXJuanDavidXx
+
 from Descargar_video import Descargar_de_youtube
 import argparse
 import sys
